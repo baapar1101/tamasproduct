@@ -1,0 +1,13 @@
+{
+    "name": "product-display",
+    "version": "1.0.0",
+    "description": "Product Display Node.js Server",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
